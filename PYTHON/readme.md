@@ -182,8 +182,7 @@ x = 8 x %= 3 # x = x % 3, x = 2 olur
 **= : Üssü alır ve sonucu değişkene atar. 
 x = 2 x **= 3 # x = x ** 3, x = 8 olur
 
-
-          Operatör	Örnek	Açılımı
+![ATAMA OEPRATORU2](./Zpicture/P3.png) 
 +=	x += 3	x = x + 3
 		
 -=	x -= 2	x = x - 2
