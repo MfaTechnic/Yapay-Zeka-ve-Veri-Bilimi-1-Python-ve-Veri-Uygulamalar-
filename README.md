@@ -90,6 +90,7 @@ oluşturmalıyız. Tanım biraz uzun oldu ancak aşağıdaki şemadan bu
 durum daha net anlaşılıyor. Daha kısa ifade etmek istersek, bir veri
 seti veya kümesi belirli niteliklerden oluşan bir grup varlığın bir
 araya gelmesinden oluşur.
+![veri_seti](./picture/3.png)
 # Veri Bilimi ve Veri Bilimci Nedir?
 
 
