@@ -3,7 +3,7 @@
 
 - [Giriş](#giriş)
 - [Python Nedir](#Python-Nedir)
-- [Python'ı İndirme ve Kurma](#Python'ı-İndirme-ve-Kurma)
+- [Python'ı İndirme ve Kurma](#Python-İndirme-ve-Kurma)
 
 
 
@@ -20,7 +20,7 @@ Kolay Söz Dizimi: Yeni başlayanlar için çok uygundur.
 Taşınabilirlik: Python, farklı işletim sistemlerinde (Windows, macOS, Linux) çalışabilir.
 Zengin Kütüphaneler: Çeşitli kütüphaneleri sayesinde hemen hemen her alanda kullanılabilir.
 
-# Python'ı İndirme ve Kurma
+# Python İndirme ve Kurma
 Python'ı bilgisayarınıza kurmak için aşağıdaki adımları takip edebilirsiniz:
 # Adım 1: Python'ın İndirilmesi
 Python'ın Resmi Web Sitesine Git: Python'ın resmi web sitesi adresine gidin.
