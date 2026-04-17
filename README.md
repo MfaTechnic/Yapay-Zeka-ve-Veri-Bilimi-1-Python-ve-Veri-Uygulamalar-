@@ -25,12 +25,6 @@ Yapay-Zeka-ve-Veri-Bilimi-1-Python-ve-Veri-Uygulamalar Kurs Dökümanları ve Uy
 > "Veri bilimciler, bir istatistikçiden daha iyi kod yazan ve bir yazılımcıdan daha iyi istatistik bilen kişilerdir." – Josh Wills
 </div>
 
-# Veri nedir?
-Veri, en basit tanımıyla dünyadaki olayların, nesnelerin veya durumların ham, işlenmemiş ve henüz bir anlam kazanmamış temsilidir. Birer "yapı taşı" gibidirler; tek başlarına size bir hikaye anlatmazlar ama bir araya geldiklerinde dünyayı anlamlandırmanızı sağlarlar.
-Veri bilginin en küçük birimi, parçasıdır. Veri latince “Datum” kavramından gelir. Veriler bir
-araya gelip bilgiyi oluştururlar. Aslında veridediğimiz kavram, gerçeğin bir soyutlamasıdır. Veri
-tek başına bir şey ifade etmez, bir anlam, bilgioluşturmaz. Veriler bir bilgi bütününün parçası
-olabildikleri gibi başka verilerle kıyaslanarak da  bilgi döndürürler.
 
 
 # Bilgi piramidi nedir?
@@ -74,6 +68,15 @@ Bilgi: "Hava 38 derece olduğuna göre dışarı çıkarken güneş kremi sürme
 
 ![bilgi piramidi2](./picture/1.png)
 
+
+# Veri nedir?
+Veri, en basit tanımıyla dünyadaki olayların, nesnelerin veya durumların ham, işlenmemiş ve henüz bir anlam kazanmamış temsilidir. Birer "yapı taşı" gibidirler; tek başlarına size bir hikaye anlatmazlar ama bir araya geldiklerinde dünyayı anlamlandırmanızı sağlarlar.
+Veri bilginin en küçük birimi, parçasıdır. Veri latince “Datum” kavramından gelir. Veriler bir
+araya gelip bilgiyi oluştururlar. Aslında veridediğimiz kavram, gerçeğin bir soyutlamasıdır. Veri
+tek başına bir şey ifade etmez, bir anlam, bilgioluşturmaz. Veriler bir bilgi bütününün parçası
+olabildikleri gibi başka verilerle kıyaslanarak da  bilgi döndürürler.
+
+![veri_nedir](./picture/2.png)
 # Veri Bilimi ve Veri Bilimci Nedir?
 
 
