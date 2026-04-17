@@ -153,46 +153,39 @@ Python'da atama operatörleri, bir değişkene değer atamak veya mevcut değeri
  # ÖRNEK:
           x = 10  # x değişkenine 10 değerini atadık.
 
-# B. Bileşik (Aritmetik) Atama Operatörleri
+# B.  Atama Operatörleri
 Bu operatörler, değişkenin mevcut değeri üzerinde bir matematiksel işlem yapıp sonucu tekrar aynı değişkene kaydetmek için kullanılır. Kodun daha kısa ve okunur olmasını sağlarlar.      
 
 ![ATAMA OEPRATORU](./Zpicture/P2.png) 
 
-= : Değeri atar. 
-x = 10 # x'e 10 değeri atanır 
 
-+= : Değeri toplar ve sonucu değişkene atar. 
-x = 5 x += 3 # x = x + 3, x = 8 olur 
-
--= : Değeri çıkarır ve sonucu değişkene atar. 
-x = 5 x -= 2 # x = x - 2, x = 3 olur 
-
-*= : Değeri çarpar ve sonucu değişkene atar. 
-x = 4 x *= 2 # x = x * 2, x = 8 olur 
-
-/= : Değeri böler ve sonucu değişkene atar. 
-x = 8 x /= 2 # x = x / 2, x = 4.0 olur 
-
-//= : Tam bölme işlemi yapar ve sonucu değişkene atar. 
-x = 8 x //= 3 # x = x // 3, x = 2 olur 
-
-%= : Modül (kalan) işlemi yapar ve sonucu değişkene atar. 
-x = 8 x %= 3 # x = x % 3, x = 2 olur 
-
-**= : Üssü alır ve sonucu değişkene atar. 
-x = 2 x **= 3 # x = x ** 3, x = 8 olur
 
 ![ATAMA OEPRATORU2](./Zpicture/P3.png) 
-+=	x += 3	x = x + 3
-		
--=	x -= 2	x = x - 2
-		
-*=	x *= 4	x = x * 4
-		
-/=	x /= 2	x = x / 2
-		
-//=	x //= 3	x = x // 3 (Tam bölünmüş sonuç)
-		
-%=	x %= 5	x = x % 5 (Mod alma/Kalan)
-		
-**=	x **= 2	x = x ** 2 (Üs alma)
+
+# Aritmetik Operatörler
+
+Aritmetik operatörler, sayılarla yapılan matematiksel işlemler için kullanılır.
+
++ : Toplama
+x = 5 + 3 # x = 8 
+
+- : Çıkarma
+x = 5 - 3 # x = 2 
+
+* : Çarpma
+x = 5 * 3 # x = 15 
+
+/ : Bölme
+x = 5 / 2 # x = 2.5 
+
+// : Tam sayı bölmesi (bölümün tam kısmı)
+x = 5 // 2 # x = 2 
+
+% : Modül (kalan) işlemi
+x = 5 % 2 # x = 1 
+
+** : Üs alma
+x = 2 ** 3 # x = 8
+17
+
+
