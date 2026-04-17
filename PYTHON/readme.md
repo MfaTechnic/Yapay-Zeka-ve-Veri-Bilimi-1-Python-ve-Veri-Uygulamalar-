@@ -1,4 +1,4 @@
-![PHYTON](./Zpicture/PYTHON.png)
+
 
 
 - [Giriş](#giriş)
