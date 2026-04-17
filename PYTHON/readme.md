@@ -6,7 +6,7 @@
 - [Python İndirme ve Kurma](#Python-İndirme-ve-Kurma)
 - [Hangi IDE Seçmelisiniz](#Hangi-IDE-Seçmelisiniz)
 - [PYTHON KULLANIM ALANLARI](#PYTHON-KULLANIM-ALANLARI)
-
+- [PYTHON TEMEL OPERATORLER](#PYTHON-TEMEL-OPERATORLER)
 
 # Giriş
 "Kod espri gibidir. Açıklamak zorundaysanız kötüdür." (Python'ın okunabilirlik felsefesine atıfla) — Cory House
@@ -104,6 +104,7 @@ Terminal üzerinden python3 komutunu yazarak Python'ı çalıştırabilirsiniz.
 
 # PYTHON KULLANIM ALANLARI
 
+
 Python, çok çeşitli alanlarda kullanılabilir. 
 Web Geliştirme: Flask veya Django gibi kütüphaneler ile web siteleri veya uygulamaları geliştirebilirsiniz.
 Veri Analizi: Pandas ve NumPy gibi kütüphanelerle büyük veri setlerini işleyebilir ve analiz edebilirsiniz.
@@ -129,4 +130,6 @@ Değişkenler: Python’da verileri saklamak için değişkenler kullanılır.
 Veri Tipleri: Python, sayılar (int, float), metin (str), listeler (list), sözlükler (dict) gibi veri tiplerine sahiptir.
 Koşullar ve Döngüler: Python, if-else koşul yapıları ve for/while döngüleri ile programları kontrol edebilir.
 
+
+# PYTHON TEMEL OPERATORLER
 
