@@ -3,7 +3,7 @@
 
 - [Giriş](#giriş)
 - [Python Nedir](#Python-Nedir)
-- [Python'ı İndirme ve Kurma](#Python-İndirme-ve-Kurma)
+- [Python İndirme ve Kurma](#Python-İndirme-ve-Kurma)
 
 
 
