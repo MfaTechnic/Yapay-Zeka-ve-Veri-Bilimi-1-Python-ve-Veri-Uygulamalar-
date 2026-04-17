@@ -181,4 +181,19 @@ x = 8 x %= 3 # x = x % 3, x = 2 olur
 
 **= : Üssü alır ve sonucu değişkene atar. 
 x = 2 x **= 3 # x = x ** 3, x = 8 olur
-          
+
+
+          Operatör	Örnek	Açılımı
++=	x += 3	x = x + 3
+		
+-=	x -= 2	x = x - 2
+		
+*=	x *= 4	x = x * 4
+		
+/=	x /= 2	x = x / 2
+		
+//=	x //= 3	x = x // 3 (Tam bölünmüş sonuç)
+		
+%=	x %= 5	x = x % 5 (Mod alma/Kalan)
+		
+**=	x **= 2	x = x ** 2 (Üs alma)
