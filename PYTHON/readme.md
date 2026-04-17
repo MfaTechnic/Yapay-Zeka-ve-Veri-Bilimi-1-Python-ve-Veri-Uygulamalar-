@@ -152,4 +152,33 @@ Python'da atama operatörleri, bir değişkene değer atamak veya mevcut değeri
 = (Atama): Sağdaki değeri soldaki değişkene atar.
  # ÖRNEK:
           x = 10  # x değişkenine 10 değerini atadık.
+
+# B. Bileşik (Aritmetik) Atama Operatörleri
+Bu operatörler, değişkenin mevcut değeri üzerinde bir matematiksel işlem yapıp sonucu tekrar aynı değişkene kaydetmek için kullanılır. Kodun daha kısa ve okunur olmasını sağlarlar.      
+
+
+
+= : Değeri atar. 
+x = 10 # x'e 10 değeri atanır 
+
++= : Değeri toplar ve sonucu değişkene atar. 
+x = 5 x += 3 # x = x + 3, x = 8 olur 
+
+-= : Değeri çıkarır ve sonucu değişkene atar. 
+x = 5 x -= 2 # x = x - 2, x = 3 olur 
+
+*= : Değeri çarpar ve sonucu değişkene atar. 
+x = 4 x *= 2 # x = x * 2, x = 8 olur 
+
+/= : Değeri böler ve sonucu değişkene atar. 
+x = 8 x /= 2 # x = x / 2, x = 4.0 olur 
+
+//= : Tam bölme işlemi yapar ve sonucu değişkene atar. 
+x = 8 x //= 3 # x = x // 3, x = 2 olur 
+
+%= : Modül (kalan) işlemi yapar ve sonucu değişkene atar. 
+x = 8 x %= 3 # x = x % 3, x = 2 olur 
+
+**= : Üssü alır ve sonucu değişkene atar. 
+x = 2 x **= 3 # x = x ** 3, x = 8 olur
           
