@@ -1,10 +1,14 @@
 ![PHYTON](./Zpicture/PYTHON.png)
 
 
+- [Giriş](#giriş)
+- [Python Nedir](#Python-Nedir)
 
 
 
 
+# Giriş
+"Kod espri gibidir. Açıklamak zorundaysanız kötüdür." (Python'ın okunabilirlik felsefesine atıfla) — Cory House
 
 
 # Python Nedir?
