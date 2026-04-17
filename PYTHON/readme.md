@@ -4,7 +4,7 @@
 - [Giriş](#giriş)
 - [Python Nedir](#Python-Nedir)
 - [Python İndirme ve Kurma](#Python-İndirme-ve-Kurma)
-
+- [ Hangi IDE Seçmelisiniz](#Hangi-IDE-Seçmelisiniz)
 
 
 
@@ -73,4 +73,12 @@ Notebook içinde Python kodlarını yazabilirsiniz. Örneğin:
 print("Merhaba Jupyter!")
 Çalıştırma: Kodu çalıştırmak için hücrenin üzerine tıklayıp, Shift + Enter tuşlarına bası
 
+# Hangi IDE Seçmelisiniz
+
+#  PyCharm
+Daha profesyonel projeler için ve büyük projeler üzerinde çalışanlar için önerilir.
+# VSCode: 
+ Hafif, hızlı ve çok yönlü bir editördür. Çoğu programcı tarafından tercih edilir.
+# Jupyter Notebook: 
+Veri bilimi ve makine öğrenimi ile ilgilenenler için harika bir seçenekti
 
