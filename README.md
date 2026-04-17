@@ -72,7 +72,9 @@ Enformasyon: "Hava sıcaklığı 38 derece." (Bağlam eklendi).
 
 Bilgi: "Hava 38 derece olduğuna göre dışarı çıkarken güneş kremi sürmeliyim." (Deneyim ve uygulama eklendi).
 
+![bilgi piramidi2](./picture/1.png)
 
+# Veri Bilimi ve Veri Bilimci Nedir?
 
 
 
