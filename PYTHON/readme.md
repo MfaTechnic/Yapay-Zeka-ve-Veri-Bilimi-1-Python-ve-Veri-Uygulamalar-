@@ -188,4 +188,20 @@ Operatör	 İşlem	 Örnek	Sonuç
        print("Çarpım:  ", a * b)  # 60
        print("Bölüm:   ", a / b)  # 3.75 (Sonuç float/ondalıklı döner)
 
-         
+ MANTIKSAL-KARŞILAŞTIRMA OPERATÖRLERİ
+
+Python'da Karşılaştırma ve Mantıksal operatörler, programın "karar verme" mekanizmasını oluşturur. Bu operatörler genellikle if blokları ve while döngüleri ile birlikte kullanılır.
+
+Her iki operatör grubunun sonucu da her zaman Boolean (True veya False) değeridir.
+
+1. Karşılaştırma Operatörleri
+İki değeri birbiriyle kıyaslamak için kullanılır.
+
+# TABLO:
+        Operatör,Anlamı,Örnek,Sonuç
+==,Eşittir,5 == 5,True
+!=,Eşit Değildir,5 != 3,True
+>,Büyüktür,10 > 20,False
+<,Küçüktür,10 < 20,True
+>=,Büyük Eşittir,15 >= 15,True
+<=,Küçük Eşittir,10 <= 5,False
