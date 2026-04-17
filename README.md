@@ -123,7 +123,8 @@ Bu kavramları anlamak, ürünün veriyle tanımlandığı şirketlerde çok ön
 
 Bir veri bilimi rolüyle ilgili bir röportajda, başka yerde çalıştığınız makine öğrenimi veya istatistik sonuçlarından bazılarını türetmeniz istenebilir. Veya görüşmeci, bu tekniklerin temelini oluşturduğu için, temel çok değişkenli hesap veya doğrusal cebir sorularını isteyebilir.
 
-Python veya R'de çok sayıda kutu uygulaması olduğunda, bir veri bilimcisinin bunu neden anlaması gerektiğini merak edebilirsiniz. Yanıt, belli bir noktada bir veri bilim ekibinin, bir yazılım oluşturması veya geliştirmesi beklenebilir. (www.ihracat.co)
+Python veya R'de çok sayıda kutu uygulaması olduğunda, bir veri bilimcisinin bunu neden anlaması gerektiğini merak edebilirsiniz. Yanıt, belli bir noktada bir veri bilim ekibinin, bir yazılım oluşturması veya geliştirmesi beklenebilir. 
+
 
 # 5- Veri bilimcileri, Veri kusurları ve eksiklilkleri ile başedebilmeli
 Analiz edeceğiniz veriler çok dağınık ve/veya çok geniş bir alanı kapsıyor olabilir. Bu nedenle, verilerdeki eksiklik ve kusurlarla nasıl başa çıkacağını bilmek gerçekten önemlidir. Veri kusurlarına örnek olarak, eksik değerler, tutarsız dize biçimi, tarih biçimlendirmesi, unix zamanı, zaman damgaları vs..
