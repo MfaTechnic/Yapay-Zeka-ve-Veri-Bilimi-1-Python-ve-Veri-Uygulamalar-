@@ -92,7 +92,13 @@ seti veya kümesi belirli niteliklerden oluşan bir grup varlığın bir
 araya gelmesinden oluşur.
 ![veri_seti](./picture/3.png)
 # Veri Bilimi ve Veri Bilimci Nedir?
+Veri Bilimi, ham verilerden anlamlı içgörüler, stratejik bilgiler ve öngörüler çıkarmak için istatistik, matematik, programlama ve alan uzmanlığını birleştiren çok disiplinli bir alandır.
 
+Basitçe ifade etmek gerekirse; geçmişin verilerine bakarak bugünü anlama ve geleceğe dair isabetli tahminler yapma sanatıdır.
+
+![veri_bilimi](./picture/4.png)
+
+Bu süreci yöneten kişiye ise veri bilimci denmektedir. Aşağıdaki görselde bir veri bilimcide bulunan/bulunması gereken özellikler gösterilmiştir.
 
 
 
