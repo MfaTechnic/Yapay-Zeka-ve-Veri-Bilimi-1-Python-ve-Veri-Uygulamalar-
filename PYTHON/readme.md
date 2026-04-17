@@ -11,7 +11,7 @@
 - [1. Atama Operatörleri](#1-Atama-Operatörleri)
 - [Aritmetik Operatörleri](#Aritmetik-Operatörler)
 - [Karşılaştırma-Operatörleri](#Karşılaştırma-Operatörleri)
-- [MANTIKSAL OPERATÖRLERİ](#MANTIKSAL-OPERATÖRLER)
+- [Mantıksal Operatörler](#Mantıksal-Operatörler)
    
 
 
@@ -208,4 +208,10 @@ Her iki operatör grubunun sonucu da her zaman Boolean (True veya False) değeri
               <  ,Küçüktür     ,10 < 20  ,True
               >= ,Büyük Eşittir,15 >= 15 ,True
               <= ,Küçük Eşittir,10 <= 5  ,False
+# Mantıksal Operatörler
+ Birden fazla karşılaştırma ifadesini birbirine bağlamak için kullanılır.
+  # and (Ve): Her iki koşul da doğruysa True döner.5 > 3 and 10 < 20 $\rightarrow$ True
  
+  # or  (Veya): Koşullardan en az biri doğruysa True döner.5 > 3 or 10 > 100 $\rightarrow$  True (Birinci kısım doğru olduğu için)
+ 
+  # not (Değil): Sonucu tersine çevirir. True ise False, False ise True yapar.not (5 > 3) $\rightarrow$ False
