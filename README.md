@@ -100,9 +100,12 @@ Basitçe ifade etmek gerekirse; geçmişin verilerine bakarak bugünü anlama ve
 
 Bu süreci yöneten kişiye ise veri bilimci denmektedir. Aşağıdaki görselde bir veri bilimcide bulunan/bulunması gereken özellikler gösterilmiştir.
 
-![veri_bilimi](./picture/5.png)
+
 
 # VERİ BİLİMCİLERİN SAHİP OLMASI GEREKEN BİLGİ VE BECERİLER
+
+![veri_bilimi](./picture/5.png)
+
 # 1- Veri bilimcileri, Programlama dillerine hakim olmalıdır
 Veri Bilimi Becerileri - Programlama – Çalıştığınız şirketin sektörü ne olursa olsun, muhtemelen ticaret araçlarını nasıl kullanacağınızı bilmeniz beklenir. Bu sebeple örneğin Python gibi istatistiksel bir programlama dili ve SQL gibi bir veritabanı programını kullanabiliyor olmanız gerekmektedir.
 
