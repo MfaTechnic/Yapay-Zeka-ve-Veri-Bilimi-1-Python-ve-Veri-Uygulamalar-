@@ -9,6 +9,8 @@ Yapay-Zeka-ve-Veri-Bilimi-1-Python-ve-Veri-Uygulamalar Kurs Dökümanları ve Uy
 - [VERİ BİLİMCİLERİN SAHİP OLMASI GEREKEN BİLGİ VE BECERİLER](#VERİ-BİLİMCİLERİN-SAHİP-OLMASI-GEREKEN-BİLGİ-VE-BECERİLER)
 - [Veri Analizi?](#Veri-Analizi)
 - [Veri Mühendisi?](#Veri-Mühendisi)
+- [Veri Madenciliği?](#Veri-Madenciliği)
+- [Veri Mühendisi Vs Veri Bilimci?](#Veri-Bilimci-vs-Veri-Mühendisi)
 - [Veri Bilimi Uygulama Şeması](#veri-bilimi-uygulama-şeması)
 
 
@@ -161,6 +163,28 @@ zamanlı analitiği mümkün kılan
 birleştirerek serbest akışlı veri
 hatları oluşturur.
 
+# Veri Madenciliği
+Veri madenciliği, belirli bir amaç için kullanılabilecek ilgili bilgileri bulmak
+üzere büyük veri kümelerini eleme işlemidir. Hem veri bilimi hem de iş
+zekâsı için gerekli olan veri madenciliği, temelde tamamen örüntülerle
+ilgilidir.
 
+Verilerin toplanıp saklanmasından sonraki adım, bu verilerden anlam
+çıkarmaktır.
  
+# Veri Bilimci vs Veri Mühendisi
+Veri mühendisi ve veri bilimci arasındaki temel fark, verinin işlenme süreci ve odak noktasıdır. En kısa tanımıyla: Veri mühendisi verinin akacağı "boruları" ve altyapıyı kurar; 
+veri bilimci ise bu borulardan akan veriyi analiz ederek ondan anlamlı içgörüler ve tahminler üretir
 
+![veri_bilimci vs Veri Mühendisi](./picture/6.png)
+# 1. Temel Sorumluluklar
+Veri Mühendisi (Mimar): Verinin toplanması, depolanması ve işlenmesi için gerekli olan sistemleri ve veri işlem hatlarını (pipelines) tasarlar ve inşa eder. Ham veriyi temiz ve analiz edilebilir hale getirmekten sorumludur.
+Veri Bilimci (Yorumcu): Mühendislerin hazırladığı veriyi kullanarak makine öğrenimi modelleri, istatistiksel analizler ve tahminleme çalışmaları yapar. Şirketin stratejik kararlar almasına yardımcı olacak soruları yanıtlar.
+
+# 2. Kullanılan Araçlar ve Beceriler
+Veri Mühendisi: SQL, NoSQL veritabanları, büyük veri teknolojileri (Hadoop, Spark), ETL süreçleri ve Java/Scala/Python gibi programlama dillerine odaklanır.
+Veri Bilimci: Python, R, istatistik, lineer cebir, makine öğrenimi kütüphaneleri (Scikit-learn, TensorFlow) ve veri görselleştirme araçlarını (Tableau, PowerBI) kullanır.
+
+ # 3 Eğitim ve Geçmiş
+Veri Mühendisleri genellikle Bilgisayar Mühendisliği veya Yazılım Mühendisliği kökenlidir ve daha çok yazılım geliştirme disiplinine yakındır.
+Veri Bilimciler ise İstatistik, Matematik, Ekonomi veya Fizik gibi alanlarda eğitim almış olup akademik veya araştırmacı bir yaklaşıma sahip olma eğilimindedir
