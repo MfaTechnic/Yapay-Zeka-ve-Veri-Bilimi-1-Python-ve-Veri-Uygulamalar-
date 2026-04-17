@@ -7,6 +7,16 @@
 - [Hangi IDE Seçmelisiniz](#Hangi-IDE-Seçmelisiniz)
 - [PYTHON KULLANIM ALANLARI](#PYTHON-KULLANIM-ALANLARI)
 - [PYTHON TEMEL OPERATORLER](#PYTHON-TEMEL-OPERATORLER)
+  -[1. Atama Operatörleri](#1-Atama-Operatörleri)
+1. Atama Operatörleri
+
+
+
+
+
+
+
+
 
 # Giriş
 "Kod espri gibidir. Açıklamak zorundaysanız kötüdür." (Python'ın okunabilirlik felsefesine atıfla) — Cory House
@@ -132,4 +142,5 @@ Koşullar ve Döngüler: Python, if-else koşul yapıları ve for/while döngül
 
 
 # PYTHON TEMEL OPERATORLER
-
+ # 1. Atama Operatörleri
+ Atama operatörleri, bir değeri bir değişkene atamak için kullanılır. Değişkenlere değerler atanırken çeşitli operatörler kullanılabilir.
