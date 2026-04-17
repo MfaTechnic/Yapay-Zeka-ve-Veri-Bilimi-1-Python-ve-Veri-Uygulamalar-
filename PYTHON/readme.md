@@ -156,7 +156,7 @@ Python'da atama operatörleri, bir değişkene değer atamak veya mevcut değeri
 # B. Bileşik (Aritmetik) Atama Operatörleri
 Bu operatörler, değişkenin mevcut değeri üzerinde bir matematiksel işlem yapıp sonucu tekrar aynı değişkene kaydetmek için kullanılır. Kodun daha kısa ve okunur olmasını sağlarlar.      
 
-
+![ATAMA OEPRATORU](./Zpicture/P2.png) 
 
 = : Değeri atar. 
 x = 10 # x'e 10 değeri atanır 
