@@ -144,4 +144,9 @@ Koşullar ve Döngüler: Python, if-else koşul yapıları ve for/while döngül
 
 # PYTHON TEMEL OPERATORLER
  # 1-Atama Operatörleri
- Atama operatörleri, bir değeri bir değişkene atamak için kullanılır. Değişkenlere değerler atanırken çeşitli operatörler kullanılabilir.
+Python'da atama operatörleri, bir değişkene değer atamak veya mevcut değerini belirli bir işlemden geçirerek güncellemek için kullanılır. En temel atama operatörü = işaretidir, ancak işlemleri kısaltmak için kullanılan birleşik operatörler de mevcuttur.
+
+İşte en sık kullanılan Python atama operatörleri:
+
+# A. Temel Atama Operatörü
+= (Atama): Sağdaki değeri soldaki değişkene atar.
