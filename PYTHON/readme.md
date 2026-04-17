@@ -150,3 +150,6 @@ Python'da atama operatörleri, bir değişkene değer atamak veya mevcut değeri
 
 # A. Temel Atama Operatörü
 = (Atama): Sağdaki değeri soldaki değişkene atar.
+ # ÖRNEK:
+          x = 10  # x değişkenine 10 değerini atadık.
+          
