@@ -176,10 +176,5 @@ Operatör	 İşlem	 Örnek	Sonuç
  *	Çarpma	  10 * 5	   50
  /	Bölme	    10 / 4	   2 5 (Her zaman float döner)
 
-# Örnek : a = 15
-b = 4
-
-print("Toplam:  ", a + b)  # 19
-print("Fark:    ", a - b)  # 11
-print("Çarpım:  ", a * b)  # 60
-print("Bölüm:   ", a / b)  # 3.75 (Sonuç float/ondalıklı döner)
+# Örnek :
+          print(15 + 25)  # Çıktı: 40
