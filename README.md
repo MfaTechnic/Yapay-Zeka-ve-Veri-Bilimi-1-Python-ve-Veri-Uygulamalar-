@@ -2,8 +2,9 @@
 Yapay-Zeka-ve-Veri-Bilimi-1-Python-ve-Veri-Uygulamalar Kurs Dökümanları ve Uygulama dosyaları
 
 - [Giriş](#giriş)
-- [Veri Nedir?](#Veri-nedir)
 - [Bilgi Piramidi Nedir?](#bilgi-piramidi-nedir)
+- [Veri Nedir?](#Veri-nedir)
+- [Veri Seti?](#Veri-seti(kümesi))
 - [Veri Bilimi ve Veri Bilimci Nedir?](#veri-bilimi-ve-veri-bilimci-nedir)
 - [Veriden Faydalı Bilgi Çıkarmak](#veriden-faydalı-bilgi-çıkarmak)
 - [Veri Bilimi Uygulama Şeması](#veri-bilimi-uygulama-şeması)
@@ -77,6 +78,18 @@ tek başına bir şey ifade etmez, bir anlam, bilgioluşturmaz. Veriler bir bilg
 olabildikleri gibi başka verilerle kıyaslanarak da  bilgi döndürürler.
 
 ![veri_nedir](./picture/2.png)
+
+# Veri Seti (Kümesi)
+Varlıklar veya olgular verilerle ifade edilirler. Her bir varlık da bir
+takım nitelikteki (özellik, değişken) verilerin bir araya gelmesiyle
+tanımlanır. Örneğin bir araba marka, model, uzunluk, motor hacmi
+vs. gibi birçok nitelikle tanımlanır. Arabalara dair bir veri seti
+oluşturmak istersek, bu niteliklere sahip verilerden oluşan
+varlıkların(arabaların), her birine ait kayıtlarını(satırlar)
+oluşturmalıyız. Tanım biraz uzun oldu ancak aşağıdaki şemadan bu
+durum daha net anlaşılıyor. Daha kısa ifade etmek istersek, bir veri
+seti veya kümesi belirli niteliklerden oluşan bir grup varlığın bir
+araya gelmesinden oluşur.
 # Veri Bilimi ve Veri Bilimci Nedir?
 
 
