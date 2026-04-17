@@ -7,8 +7,8 @@
 - [Hangi IDE Seçmelisiniz](#Hangi-IDE-Seçmelisiniz)
 - [PYTHON KULLANIM ALANLARI](#PYTHON-KULLANIM-ALANLARI)
 - [PYTHON TEMEL OPERATORLER](#PYTHON-TEMEL-OPERATORLER)
-  -[1. Atama Operatörleri](#1-Atama-Operatörleri)
-1. Atama Operatörleri
+-[1. Atama Operatörleri](#1-Atama-Operatörleri)
+
 
 
 
