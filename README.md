@@ -41,7 +41,7 @@ Yapay-Zeka-ve-Veri-Bilimi-1-Python-ve-Veri-Uygulamalar Kurs Dökümanları ve Uy
 
 
  # Bilgi Nedir?
- en yalın tanımıyla öğrenme, araştırma veya gözlem yoluyla elde edilen gerçekler, ilkeler ve veriler bütünüdür. Ancak bu kavram, kullanıldığı alana göre farklı derinliklerde ele alınır:
+ En yalın tanımıyla öğrenme, araştırma veya gözlem yoluyla elde edilen gerçekler, ilkeler ve veriler bütünüdür. Ancak bu kavram, kullanıldığı alana göre farklı derinliklerde ele alınır:
 
 # 1-Temel Anlamda Bilgi  
 Günlük hayatta bilgi; bir konu hakkında sahip olduğumuz farkındalık ya da uzmanlıktır. Örneğin, "Su 100 derecede kaynar" cümlesi, deneysel olarak doğrulanmış bir verinin bilgiye dönüşmüş halidir.
