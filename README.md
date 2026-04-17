@@ -12,7 +12,7 @@ Yapay-Zeka-ve-Veri-Bilimi-1-Python-ve-Veri-Uygulamalar Kurs Dökümanları ve Uy
 - [Veri Madenciliği?](#Veri-Madenciliği)
 - [Veri Mühendisi Vs Veri Bilimci?](#Veri-Bilimci-vs-Veri-Mühendisi)
 - [Veri Bilimi Yaşam Döngüsüı](#veri-bilimi-yaşam-döngüsü)
-- [Veri Madenciliği?](#Veri-Bilimi-Teknikleri)
+- [Veri Bilimi-Teknikleri](#Veri-Bilimi-Teknikleri)
 
 
 
