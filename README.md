@@ -12,6 +12,7 @@ Yapay-Zeka-ve-Veri-Bilimi-1-Python-ve-Veri-Uygulamalar Kurs Dökümanları ve Uy
 - [Veri Madenciliği?](#Veri-Madenciliği)
 - [Veri Mühendisi Vs Veri Bilimci?](#Veri-Bilimci-vs-Veri-Mühendisi)
 - [Veri Bilimi Yaşam Döngüsüı](#veri-bilimi-yaşam-döngüsü)
+- [Veri Madenciliği?](#Veri-Bilimi-Teknikleri)
 
 
 
@@ -210,3 +211,43 @@ Hazırlanan veri üzerinde çeşitli algoritmalar (regresyon, sınıflandırma, 
 Modelin performansı test verileriyle ölçülür. "Model yeterince isabetli mi?", "İş hedeflerini karşılıyor mu?" sorularına yanıt aranır. Eğer sonuçlar zayıfsa önceki adımlara geri dönülür.
 # 7. Dağıtım ve İzleme (Deployment & Monitoring)
 Başarılı olan model gerçek dünya ortamına entegre edilir. Ancak iş burada bitmez; zamanla veriler değişebileceği için modelin performansı sürekli izlenir ve gerektiğinde yeniden eğitilir.
+
+
+
+# Veri Bilimi Teknikleri
+
+Veri bilimi teknikleri, veriden anlamlı içgörüler çıkarmak için kullanılan matematiksel, istatistiksel ve algoritmik yöntemlerdir. Bu teknikler genellikle problemin türüne (tahmin, gruplandırma veya keşif) göre seçilir. 
+
+En yaygın kullanılan veri bilimi teknikleri şunlardır:
+# 1. Tahminleme ve Modelleme (Prediction & Modeling)
+  # a-Regresyon Analizi:
+  Birbiriyle ilişkili değişkenler arasındaki matematiksel bağı kurarak gelecek değerleri tahmin etmek için kullanılır. (Örn: Ev fiyatı tahmini).
+  Regresyon, alakasız görünen iki veri noktası arasında bir ilişki bulma
+  yöntemidir. Bağlantı genellikle bir matematik formülü etrafında modellenir ve
+  bir grafik ya da eğriler olarak temsil edilir. Veri noktalarından birinin değeri
+   bilindiğinde, diğer veri noktasını tahmin etmek için regresyon kullanılır.
+    Örneğin:
+   Hava yoluyla bulaşan hastalıkların yayılma hızı.
+   Müşteri memnuniyeti ile çalışan sayısı arasındaki ilişki.
+   Belirli bir konumda itfaiye istasyonlarının sayısı ile yangından kaynaklanan
+  yaralanma sayısı arasındaki ilişki.
+  # b-Sınıflandırma (Classification):
+  Veri noktalarını belirli kategorilere ayırır. (Örn: Bir e-postanın "spam" olup olmadığını belirleme).
+  Sınıflandırma, verilerin belirli grup veya kategorilere tasnif edilmesidir.
+   #, verileri belirlemek ve tasnif etmek üzere eğitilir. Bilinen veri
+  kümeleri kullanılarak, bir bilgisayarda verileri hızlı bir şekilde işleyen ve
+  kategorize eden karar algoritmaları oluşturulur. Örneğin:
+  Ürünleri popüler veya popüler değil olarak tasnif etme Sigorta başvurularını yüksek riskli veya düşük riskli olarak tasnif etme
+  Sosyal medya yorumlarını olumlu, olumsuz veya nötr olarak tasnif etme.
+  Veri bilimi uzmanları, veri bilimi sürecini izlemek için bilgi işlem sistemleri
+  oluşturur.
+  # c-Zaman Serisi Analizi:
+  Geçmiş zaman verilerini inceleyerek gelecekteki eğilimleri öngörür. (Örn: Hisse senedi piyasası analizi)
+
+ # 2. Veri Yapılandırma ve Gruplandırma
+ # Kümeleme (Clustering):
+ Benzer özelliklere sahip veri noktalarını (önceden tanımlanmış bir etiket olmadan) doğal gruplara ayırır. (Örn: Müşteri segmentasyonu).
+  # İlişkilendirme Kuralları (Association Rules): 
+  Veri setindeki öğeler arasındaki ilginç ilişkileri bulur. (Örn: "Marketlerde ekmek alanlar genelde süt de alır" kuralı).
+  # Anomali Algılama (Anomaly Detection): 
+  Normal veri akışından sapan, şüpheli veya nadir durumları tespit eder. (Örn: Kredi kartı dolandırıcılığı tespiti). 
