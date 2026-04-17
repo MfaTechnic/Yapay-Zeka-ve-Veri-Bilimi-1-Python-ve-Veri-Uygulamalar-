@@ -5,7 +5,7 @@
 - [Python Nedir](#Python-Nedir)
 - [Python İndirme ve Kurma](#Python-İndirme-ve-Kurma)
 - [Hangi IDE Seçmelisiniz](#Hangi-IDE-Seçmelisiniz)
-
+- [PYTHON KULLANIM ALANLARI](#PYTHON-KULLANIM-ALANLARI)
 
 
 # Giriş
