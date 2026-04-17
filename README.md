@@ -31,7 +31,13 @@ Veri bilginin en küçük birimi, parçasıdır. Veri latince “Datum” kavram
 araya gelip bilgiyi oluştururlar. Aslında veridediğimiz kavram, gerçeğin bir soyutlamasıdır. Veri
 tek başına bir şey ifade etmez, bir anlam, bilgioluşturmaz. Veriler bir bilgi bütününün parçası
 olabildikleri gibi başka verilerle kıyaslanarak da  bilgi döndürürler.
+
+
+# Bilgi piramidi nedir?
+
 Bilgi Piramidi'nin (DIKW) en temel katmanını oluşturan verinin temel özellikleri şunlardır:
+
+![bilgi piramidi](./picture/110425vebb_piramiti2.gif) 
 
 
 1. Verinin Yapısı
