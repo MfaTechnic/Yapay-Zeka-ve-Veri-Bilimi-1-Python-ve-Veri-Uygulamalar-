@@ -6,7 +6,7 @@ Yapay-Zeka-ve-Veri-Bilimi-1-Python-ve-Veri-Uygulamalar Kurs Dökümanları ve Uy
 - [Veri Nedir?](#Veri-nedir)
 - [Veri Seti?](#Veri-Seti)
 - [Veri Bilimi ve Veri Bilimci Nedir?](#veri-bilimi-ve-veri-bilimci-nedir)
-- [Veriden Faydalı Bilgi Çıkarmak](#veriden-faydalı-bilgi-çıkarmak)
+- [VERİ BİLİMCİLERİN SAHİP OLMASI GEREKEN BİLGİ VE BECERİLER](#VERİ-BİLİMCİLERİN-SAHİP-OLMASI-GEREKEN-BİLGİ-VE-BECERİLER)
 - [Veri Bilimi Uygulama Şeması](#veri-bilimi-uygulama-şeması)
 
 
@@ -100,7 +100,39 @@ Basitçe ifade etmek gerekirse; geçmişin verilerine bakarak bugünü anlama ve
 
 Bu süreci yöneten kişiye ise veri bilimci denmektedir. Aşağıdaki görselde bir veri bilimcide bulunan/bulunması gereken özellikler gösterilmiştir.
 
+![veri_bilimi](./picture/5.png)
 
+# VERİ BİLİMCİLERİN SAHİP OLMASI GEREKEN BİLGİ VE BECERİLER
+# 1- Veri bilimcileri, Programlama dillerine hakim olmalıdır
+Veri Bilimi Becerileri - Programlama – Çalıştığınız şirketin sektörü ne olursa olsun, muhtemelen ticaret araçlarını nasıl kullanacağınızı bilmeniz beklenir. Bu sebeple örneğin Python gibi istatistiksel bir programlama dili ve SQL gibi bir veritabanı programını kullanabiliyor olmanız gerekmektedir.
+
+# 2- Veri bilimcileri, İstatistik konusunda bilgili olmalı
+Veri bilimci olarak istatistiklerin iyi bir şekilde anlaşılması hayati öneme sahiptir. İstatistiksel testler, dağılımlar, maksimum olasılık tahmincileri, vb. konulara aşina olmalısınız. Bu, aynı zamanda makine öğrenimi için de geçerlidir, ancak istatistik bilgilerinizin en önemli yönlerinden biri, farklı tekniklerin ne zaman (veya değil) geçerli bir yaklaşım. İstatistikler, tüm şirket türlerinde önemlidir, ancak paydaşların kararlarını vermek ve deneyleri tasarlamak / değerlendirmek için yardımınıza bağlı olduğu özellikle veri odaklı şirketler önemlidir.
+
+# 3- Veri bilimcileri, Makine öğrenme becerilerine sahip olmalıdır
+Özellikle büyük miktarda veri içeren bir şirkette veya ürünün kendisinin özellikle veri odaklı olduğu bir şirkette (örn. Bilişim, medya, reklam, pazarlama firmaları) çalışıyorsanız, makine öğrenme yöntemlerine aşina olmanız gerekmektedir. Bu tekniklerden birçoğunun R veya Python kütüphaneleri kullanılarak uygulanabileceği doğrudur bu nedenle, algoritmaların nasıl çalıştığına dair bir uzman olmak zorunlu değildir. Veri bilimcisinin farklı teknikleri kullanmanın ne zaman uygun ve gerekli olduğunu biliyor olması bu işteki başarı kriterini belirler.
+Makine öğrenme nedir: Makine öğrenimi, yazılım uygulamalarının net olarak programlanmadan sonuçların tahmininde daha doğru olmasını sağlayan yapay zeka (AI) bir türüdür. Makine öğreniminin temel önceliği, giriş verilerini alabilen ve bir çıktı değerini kabul edilebilir bir aralıkta öngörmek için istatistiksel analizi kullanabilen algoritmalar oluşturmaktır.
+
+# 4- Veri bilimcileri, Çok Değişkenli Analiz yapabilmeli ve Lineer Cebir bilmeli
+Bu kavramları anlamak, ürünün veriyle tanımlandığı şirketlerde çok önemlidir ve tahmini performansdaki veya algoritma optimizasyonundaki küçük gelişmeler şirket için büyük kazanımlara neden olabilir.
+
+Bir veri bilimi rolüyle ilgili bir röportajda, başka yerde çalıştığınız makine öğrenimi veya istatistik sonuçlarından bazılarını türetmeniz istenebilir. Veya görüşmeci, bu tekniklerin temelini oluşturduğu için, temel çok değişkenli hesap veya doğrusal cebir sorularını isteyebilir.
+
+Python veya R'de çok sayıda kutu uygulaması olduğunda, bir veri bilimcisinin bunu neden anlaması gerektiğini merak edebilirsiniz. Yanıt, belli bir noktada bir veri bilim ekibinin, bir yazılım oluşturması veya geliştirmesi beklenebilir. (www.ihracat.co)
+
+# 5- Veri bilimcileri, Veri kusurları ve eksiklilkleri ile başedebilmeli
+Analiz edeceğiniz veriler çok dağınık ve/veya çok geniş bir alanı kapsıyor olabilir. Bu nedenle, verilerdeki eksiklik ve kusurlarla nasıl başa çıkacağını bilmek gerçekten önemlidir. Veri kusurlarına örnek olarak, eksik değerler, tutarsız dize biçimi, tarih biçimlendirmesi, unix zamanı, zaman damgaları vs..
+
+# 6- Veri bilimcileri, Veri Görselleştirme ve İletişim tekniklerine hakim olmalı
+Veri bilimcileri, elde ettikleri bulguları, ilgili kişi ve birimlere aktarırken, doğru iletişim ve görselleme tekniklerini kullanmalı, bu aşamada, elde ettikleri verilerin nasıl algılanacağını nasıl gözlemleneceğini öngörüyor olmaları beklenir.
+
+Görselleştirme açısından, matplotlib, ggplot veya d3.j gibi veri görselleştirme araçlarını tanımak son derecede yardımcı olabilir. Sadece verileri görselleştirmek için gerekli olan araçları değil, aynı zamanda görsel olarak veri şifreleme ve bilgi iletişiminde kullanılan ilkeleri de bilmek önemlidir.
+
+# 7- Veri bilimcileri ve Yazılım Mühendisliği
+Özellikle küçük bir şirkette, tek başına veya küçük bir ekiple çalışan firmaların öncelikli tercihi, yazılım mühendisliği kökenli bir veri bilimciyle çalışmak olacaktır. Program kullanma ve geliştirme becerilerinin yardımı olmadan bir sürü veri günlüğü ile potansiyel olarak veri odaklı ürünlerin geliştirilmek zor olacaktır. Veri bilişimini faaliyet alanı olarak seçen firmalarda ya da veri bilişimi için ekip kuran firmalarda, veri bilimcilerin matematik, istatistik, pazarlama gibi farklı meslek kökenlerinden uzmanları da içermesi faydalı olacaktır.
+
+# 8- Veri bilimcileri Veri Sezgisi
+İşverenler, veri bilimcilerinin, veri odaklı bir problem çözücü olduğunu görmek istiyorlar. Veri bilimcileri bir iş mülakatında ya da veribilimi ve analizine yönelik başka bir firmadan gelen bir iş talebinde Görüşme sürecindeki bir noktada, şirketin geliştirmeyi istediği veri odaklı ürüne yönelik bir soru yöneltebilirler. 
 
 
 
