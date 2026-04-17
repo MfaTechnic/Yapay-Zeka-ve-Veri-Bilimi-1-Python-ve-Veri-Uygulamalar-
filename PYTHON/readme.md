@@ -82,3 +82,51 @@ Daha profesyonel projeler için ve büyük projeler üzerinde çalışanlar içi
 # Jupyter Notebook: 
 Veri bilimi ve makine öğrenimi ile ilgilenenler için harika bir seçenekti
 
+# Adım 2: PyCharm Kurulumu
+İndirilen dosyayı çalıştırın ve kurulum sihirbazını takip edin.
+Kurulum sırasında, Python'ı IDE ile ilişkilendirme seçeneğini işaretlemeyi unutmayın (bazı versiyonlar bunu otomatik olarak yapar).
+Kurulum tamamlandığında, PyCharm’ı başlatın.
+
+# Adım 3: PyCharm ile Python Kodu Yazma
+Yeni bir proje oluşturun: PyCharm açıldığında, “New Project” seçeneğine tıklayın. Python’un kurulu olduğu yolu seçin.
+Yeni bir Python dosyası oluşturun: Proje açıldıktan sonra, sağ tıklayarak “New -> Python File” seçeneğini seçin.
+Kod yazın ve çalıştırın: Şimdi, yeni oluşturduğunuz dosyaya kod yazmaya başlayabilirsiniz. Örneğin, şu basit Python kodunu yazın:
+print("Merhaba PyCharm!")
+Kodu çalıştırın: Kodunuzu çalıştırmak için sağ üst köşede bulunan yeşil "Run" butonuna tıklayın.
+8
+
+# Python'ı Çalıştırma
+Python yüklendikten sonra, kod yazmaya başlamak için Python'ı açmalısınız.
+# Windows:
+Başlat menüsünden "Python" yazarak Python'ı açabilirsiniz. Ayrıca "Command Prompt" (Komut İstemcisi) üzerinden Python'ı çalıştırabilirsiniz.
+# MacOS/Linux:
+Terminal üzerinden python3 komutunu yazarak Python'ı çalıştırabilirsiniz.
+
+# PYTHON KULLANIM ALANLARI
+
+Python, çok çeşitli alanlarda kullanılabilir. 
+Web Geliştirme: Flask veya Django gibi kütüphaneler ile web siteleri veya uygulamaları geliştirebilirsiniz.
+Veri Analizi: Pandas ve NumPy gibi kütüphanelerle büyük veri setlerini işleyebilir ve analiz edebilirsiniz.
+Yapay Zeka ve Makine Öğrenimi: TensorFlow ve PyTorch gibi kütüphaneler ile yapay zeka ve makine öğrenimi projeleri geliştirebilirsiniz.
+Oyun Geliştirme: Python, Pygame kütüphanesi ile basit oyunlar oluşturmanıza yardımcı olabilir.
+Otomasyon: Rutin işleri otomatikleştirmek için Python ile scriptler yazabilirsiniz.
+
+
+
+# Python ile İlk Program
+
+Python kurulumunu tamamladıktan sonra, basit bir Python programı yazalım. Bunun için bir metin düzenleyicisi (Notepad, Visual Studio Code, PyCharm vb.) kullanabilirsiniz. İşte ilk Python kodumuz:
+
+print("Merhaba, Python!")
+
+Bu kodu kaydettikten sonra, çalıştırabilirsiniz. Çıktı olarak Merhaba, Python! yazısını göreceksiniz.
+
+
+
+# 6.Python Hakkında Ekstra Bilgiler
+
+Değişkenler: Python’da verileri saklamak için değişkenler kullanılır.
+Veri Tipleri: Python, sayılar (int, float), metin (str), listeler (list), sözlükler (dict) gibi veri tiplerine sahiptir.
+Koşullar ve Döngüler: Python, if-else koşul yapıları ve for/while döngüleri ile programları kontrol edebilir.
+
+
