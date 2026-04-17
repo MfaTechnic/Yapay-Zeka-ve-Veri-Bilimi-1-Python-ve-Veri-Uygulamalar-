@@ -9,9 +9,10 @@
 - [PYTHON TEMEL OPERATORLER](#PYTHON-TEMEL-OPERATORLER)
 
   -[1. Atama Operatörleri](#1-Atama-Operatörleri)
-  -[1. ritmetik Operatörleri](#ritmetik_Operatörler)
-  -[MANTIKSAL-KARŞILAŞTIRMA OPERATÖRLERİ](#MANTIKSAL-KARŞILAŞTIRMA-OPERATÖRLER)
-        MANTIKSAL-KARŞILAŞTIRMA OPERATÖRLERİ
+  -[Aritmetik Operatörleri](#Aritmetik_Operatörler)
+  -[KARŞILAŞTIRMA OPERATÖRLERİ](#KARŞILAŞTIRMA-OPERATÖRLER)
+  -[MANTIKSAL OPERATÖRLERİ](#MANTIKSAL-OPERATÖRLER)
+   MANTIKSAL-KARŞILAŞTIRMA OPERATÖRLERİ
 
 
 
@@ -190,7 +191,7 @@ Operatör	 İşlem	 Örnek	Sonuç
        print("Çarpım:  ", a * b)  # 60
        print("Bölüm:   ", a / b)  # 3.75 (Sonuç float/ondalıklı döner)
 
- # MANTIKSAL-KARŞILAŞTIRMA OPERATÖRLERİ
+ # KARŞILAŞTIRMA OPERATÖRLERİ
 
 Python'da Karşılaştırma ve Mantıksal operatörler, programın "karar verme" mekanizmasını oluşturur. Bu operatörler genellikle if blokları ve while döngüleri ile birlikte kullanılır.
 
