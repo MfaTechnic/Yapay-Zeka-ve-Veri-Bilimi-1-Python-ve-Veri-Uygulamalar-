@@ -8,10 +8,10 @@
 - [PYTHON KULLANIM ALANLARI](#PYTHON-KULLANIM-ALANLARI)
 - [PYTHON TEMEL OPERATORLER](#PYTHON-TEMEL-OPERATORLER)
 
-  -[1. Atama Operatörleri](#1-Atama-Operatörleri)
-  -[Aritmetik Operatörleri](#Aritmetik_Operatörler)
-  -[KARŞILAŞTIRMA OPERATÖRLERİ](#KARŞILAŞTIRMA-OPERATÖRLER)
-  -[MANTIKSAL OPERATÖRLERİ](#MANTIKSAL-OPERATÖRLER)
+- [1. Atama Operatörleri](#1-Atama-Operatörleri)
+- [Aritmetik Operatörleri](#Aritmetik_Operatörler)
+- [KARŞILAŞTIRMA OPERATÖRLERİ](#KARŞILAŞTIRMA-OPERATÖRLER)
+- [MANTIKSAL OPERATÖRLERİ](#MANTIKSAL-OPERATÖRLER)
    MANTIKSAL-KARŞILAŞTIRMA OPERATÖRLERİ
 
 
