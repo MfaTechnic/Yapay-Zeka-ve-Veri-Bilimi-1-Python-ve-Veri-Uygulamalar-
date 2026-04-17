@@ -40,7 +40,7 @@ Bilgi Piramidi'nin (DIKW) en temel katmanını oluşturan verinin temel özellik
 ![bilgi piramidi](./picture/110425vebb_piramiti2.gif) 
 
 
-1. Verinin Yapısı
+# 1. Verinin Yapısı
 Veri, farklı biçimlerde karşımıza çıkabilir:
 
 Sayısal: 18, 102.5, -5 (Örn: Bir sensörden gelen sıcaklık değeri).
@@ -51,19 +51,19 @@ Sembolik: %, &, #.
 
 Görsel/İşitsel: Bir fotoğraf karesi veya bir ses kaydı parçası.
 
-2. "Ham" Olma Özelliği
+# 2. "Ham" Olma Özelliği
 Veri "hamdır" çünkü bağlamdan yoksundur.
 
 Örnek: Elinizde sadece "42" sayısı olduğunu düşünün. Bu sayı tek başına bir anlam ifade etmez. Bir ayakkabı numarası mı? Bir evin kapı numarası mı? Yoksa bir şehrin plaka kodu mu? Bağlam eklenene kadar bu sadece bir veridir.
 
-3. Veri Türleri (Bilişim ve İstatistik Açısından)
+# 3. Veri Türleri (Bilişim ve İstatistik Açısından)
 Veri biliminde veriler genellikle iki ana gruba ayrılır:
 
 Yapılandırılmış Veri (Structured Data): Excel tabloları veya veritabanları gibi belirli bir düzende olan verilerdir. (Örn: İsim-Soyisim listesi).
 
 Yapılandırılmamış Veri (Unstructured Data): Belirli bir kalıba uymayan verilerdir. (Örn: E-posta içerikleri, videolar, sosyal medya paylaşımları).
 
-4. Veriden Bilgiye Giden Yol
+# 4. Veriden Bilgiye Giden Yol
 Veri, işlendiği zaman değer kazanır:
 
 Veri: 38 (Ham sayı).
