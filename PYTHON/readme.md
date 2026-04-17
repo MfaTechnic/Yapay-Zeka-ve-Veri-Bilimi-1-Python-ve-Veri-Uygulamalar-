@@ -10,9 +10,9 @@
 
 - [1. Atama Operatörleri](#1-Atama-Operatörleri)
 - [Aritmetik Operatörleri](#Aritmetik-Operatörler)
-- [KARŞILAŞTIRMA OPERATÖRLERİ](#Karşılaştırma-Operatörleri)
+- [Karşılaştırma-Operatörleri](#Karşılaştırma-Operatörleri)
 - [MANTIKSAL OPERATÖRLERİ](#MANTIKSAL-OPERATÖRLER)
-   MANTIKSAL-KARŞILAŞTIRMA OPERATÖRLERİ
+   
 
 
 
