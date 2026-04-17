@@ -1,1 +1,1 @@
-![PHYTON](./PYTHON/picture/PYTHON.png)
+![PHYTON](./picture/PYTHON.png)
