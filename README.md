@@ -4,7 +4,7 @@ Yapay-Zeka-ve-Veri-Bilimi-1-Python-ve-Veri-Uygulamalar Kurs Dökümanları ve Uy
 - [Giriş](#giriş)
 - [Bilgi Piramidi Nedir?](#bilgi-piramidi-nedir)
 - [Veri Nedir?](#Veri-nedir)
-- [Veri Seti?](#Veri-seti(kümesi))
+- [Veri Seti?](#Veri-Seti)
 - [Veri Bilimi ve Veri Bilimci Nedir?](#veri-bilimi-ve-veri-bilimci-nedir)
 - [Veriden Faydalı Bilgi Çıkarmak](#veriden-faydalı-bilgi-çıkarmak)
 - [Veri Bilimi Uygulama Şeması](#veri-bilimi-uygulama-şeması)
@@ -79,7 +79,7 @@ olabildikleri gibi başka verilerle kıyaslanarak da  bilgi döndürürler.
 
 ![veri_nedir](./picture/2.png)
 
-# Veri Seti (Kümesi)
+# Veri Seti 
 Varlıklar veya olgular verilerle ifade edilirler. Her bir varlık da bir
 takım nitelikteki (özellik, değişken) verilerin bir araya gelmesiyle
 tanımlanır. Örneğin bir araba marka, model, uzunluk, motor hacmi
