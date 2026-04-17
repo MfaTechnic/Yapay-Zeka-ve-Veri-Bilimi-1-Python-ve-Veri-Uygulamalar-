@@ -176,8 +176,7 @@ Operatör	 İşlem	 Örnek	Sonuç
  *	Çarpma	  10 * 5	   50
  /	Bölme	    10 / 4	   2 5 (Her zaman float döner)
 
-# Örnek ::
-a = 15
+# Örnek : a = 15
 b = 4
 
 print("Toplam:  ", a + b)  # 19
