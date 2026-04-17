@@ -166,26 +166,5 @@ Bu operatörler, değişkenin mevcut değeri üzerinde bir matematiksel işlem y
 
 Aritmetik operatörler, sayılarla yapılan matematiksel işlemler için kullanılır.
 
-+ : Toplama
-x = 5 + 3 # x = 8 
-
-- : Çıkarma
-x = 5 - 3 # x = 2 
-
-* : Çarpma
-x = 5 * 3 # x = 15 
-
-/ : Bölme
-x = 5 / 2 # x = 2.5 
-
-// : Tam sayı bölmesi (bölümün tam kısmı)
-x = 5 // 2 # x = 2 
-
-% : Modül (kalan) işlemi
-x = 5 % 2 # x = 1 
-
-** : Üs alma
-x = 2 ** 3 # x = 8
-17
-
+![ATAMA OEPRATORU2](./Zpicture/P4.png) 
 
