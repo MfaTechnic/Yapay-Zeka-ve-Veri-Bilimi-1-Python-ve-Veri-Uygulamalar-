@@ -11,7 +11,7 @@ Yapay-Zeka-ve-Veri-Bilimi-1-Python-ve-Veri-Uygulamalar Kurs Dökümanları ve Uy
 - [Veri Mühendisi?](#Veri-Mühendisi)
 - [Veri Madenciliği?](#Veri-Madenciliği)
 - [Veri Mühendisi Vs Veri Bilimci?](#Veri-Bilimci-vs-Veri-Mühendisi)
-- [Veri Bilimi Uygulama Şeması](#veri-bilimi-uygulama-şeması)
+- [Veri Bilimi Yaşam Döngüsüı](#veri-bilimi-yaşam-döngüsü)
 
 
 
@@ -188,3 +188,25 @@ Veri Bilimci: Python, R, istatistik, lineer cebir, makine öğrenimi kütüphane
  # 3 Eğitim ve Geçmiş
 Veri Mühendisleri genellikle Bilgisayar Mühendisliği veya Yazılım Mühendisliği kökenlidir ve daha çok yazılım geliştirme disiplinine yakındır.
 Veri Bilimciler ise İstatistik, Matematik, Ekonomi veya Fizik gibi alanlarda eğitim almış olup akademik veya araştırmacı bir yaklaşıma sahip olma eğilimindedir
+
+
+
+# Veri Bilimi Yaşam Döngüsü
+
+Veri bilimi yaşam döngüsü, bir problemin verilerle çözülmesi sürecinde izlenen sistematik adımlar bütünüdür. En yaygın kabul gören model olan CRISP-DM (Cross-Industry Standard Process for Data Mining) temel alınarak süreç şu şekilde işler:
+
+![veri_bilimi-Yaşam_Döngusu](./picture/7.png)
+# 1. İş Problemini Anlama (Business Understanding)
+Süreç bir teknikle değil, bir soruyla başlar. "Müşterilerimiz neden aboneliklerini iptal ediyor?" veya "Gelecek ayki satışlar ne olacak?" gibi iş hedefleri belirlenir ve başarı kriterleri tanımlanır.
+# 2. Veri Edinme ve Anlama (Data Acquisition)
+Belirlenen problemi çözmek için hangi verilere ihtiyaç duyulduğu saptanır. Veriler veritabanlarından, API'lerden veya web kazıma (scraping) yöntemiyle toplanır. Verinin yapısı, kalitesi ve eksiklikleri bu aşamada incelenir.
+# 3. Veri Hazırlama ve Temizleme (Data Preparation)
+Zamanın en büyük kısmının (%70-80) harcandığı yerdir. Ham veri; gürültülerden arındırılır, eksik değerler doldurulur, hatalı girişler düzeltilir ve analiz edilebilir formata (tablolara) dönüştürülür.
+# 4. Keşifçi Veri Analizi (EDA - Exploratory Data Analysis)
+Verideki desenleri, aykırı değerleri ve değişkenler arasındaki ilişkileri anlamak için istatistiksel yöntemler ve görselleştirme araçları kullanılır. Bu adım, hangi makine öğrenimi modelinin seçileceğine karar vermeyi sağlar.
+# 5. Modelleme (Modeling)
+Hazırlanan veri üzerinde çeşitli algoritmalar (regresyon, sınıflandırma, kümeleme vb.) denenir. Veri genellikle "eğitim" ve "test" seti olarak ikiye ayrılır; model eğitim setiyle öğrenir.
+# 6. Değerlendirme (Evaluation)
+Modelin performansı test verileriyle ölçülür. "Model yeterince isabetli mi?", "İş hedeflerini karşılıyor mu?" sorularına yanıt aranır. Eğer sonuçlar zayıfsa önceki adımlara geri dönülür.
+# 7. Dağıtım ve İzleme (Deployment & Monitoring)
+Başarılı olan model gerçek dünya ortamına entegre edilir. Ancak iş burada bitmez; zamanla veriler değişebileceği için modelin performansı sürekli izlenir ve gerektiğinde yeniden eğitilir.
