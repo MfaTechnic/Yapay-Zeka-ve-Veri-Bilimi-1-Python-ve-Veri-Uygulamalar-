@@ -143,5 +143,5 @@ Koşullar ve Döngüler: Python, if-else koşul yapıları ve for/while döngül
 
 
 # PYTHON TEMEL OPERATORLER
- # 1- Atama Operatörleri
+ # 1-Atama Operatörleri
  Atama operatörleri, bir değeri bir değişkene atamak için kullanılır. Değişkenlere değerler atanırken çeşitli operatörler kullanılabilir.
