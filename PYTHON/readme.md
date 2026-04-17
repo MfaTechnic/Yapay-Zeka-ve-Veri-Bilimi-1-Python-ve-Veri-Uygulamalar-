@@ -178,3 +178,14 @@ Operatör	 İşlem	 Örnek	Sonuç
 
 # Örnek :
           print(15 + 25)  # Çıktı: 40
+
+# Örnek  :
+              a = 15
+               b = 4
+
+       print("Toplam:  ", a + b)  # 19
+       print("Fark:    ", a - b)  # 11
+       print("Çarpım:  ", a * b)  # 60
+       print("Bölüm:   ", a / b)  # 3.75 (Sonuç float/ondalıklı döner)
+
+         
