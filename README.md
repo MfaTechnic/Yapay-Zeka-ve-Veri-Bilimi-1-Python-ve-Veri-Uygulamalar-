@@ -2,7 +2,6 @@
 Yapay-Zeka-ve-Veri-Bilimi-1-Python-ve-Veri-Uygulamalar Kurs Dökümanları ve Uygulama dosyaları
 
 - [Giriş](#giriş)
-  - [Kaynaklar](#kaynaklar)
 - [Bilgi Nedir?](#bilgi-nedir)
 - [Bilgi Piramidi Nedir?](#bilgi-piramidi-nedir)
 - [Veri Bilimi ve Veri Bilimci Nedir?](#veri-bilimi-ve-veri-bilimci-nedir)
